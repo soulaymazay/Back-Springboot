@@ -1,0 +1,6 @@
+com\example\demo\WebConfig.class
+com\example\myback\controller\UserController.class
+com\example\myback\repository\UserRepository.class
+com\example\myback\entity\User.class
+com\example\myback\service\UserService.class
+com\example\myback\DemoApplication.class
